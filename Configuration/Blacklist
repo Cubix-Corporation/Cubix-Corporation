@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "data": {
+    "users": [
+      {
+        "user_id": 1463219506,
+        "reason": "Testing...",
+        "active": true
+      }
+    ],
+    "groups": [
+      {
+        "group_id": 1463219506,
+        "minrank": 1,
+        "reason": "Testing...",
+        "active": true
+      }
+    ]
+  }
+}
