@@ -1,8 +1,9 @@
-# Cubix Corporation
+# Cubix Corporation DataStore
 
-Welcome to the official DataStore for Cubix Corporation. This repository provides real-time access to data, including blacklists, whitelists, and product information. All data is always available for viewing, ensuring transparency and accessibility for all authorized users.
+Welcome to **Cubix Corporation's DataStore**! This repository offers easy access to critical data, including blacklists, whitelists, and product information. All data is available for authorized users, ensuring full transparency and accessibility.
 
-## Access
-This repository is publicly available for browsing but requires special permissions for modifications.
+## Data Distribution
+Feel free to integrate our blacklisted entries into your own system. While it's entirely up to you, we highly recommend this for consistency and enhanced security.
 
-For any questions, please contact the Cubix Corporation team.
+## Need Help?
+If you have any questions or need assistance, don't hesitate to reach out to the Cubix Corporation team. We're here to help!
