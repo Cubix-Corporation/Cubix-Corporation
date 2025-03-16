@@ -11,6 +11,5 @@ We use JSON because it’s a lightweight, widely-supported data format that is e
 ## Need Help?
 If you have any questions or need assistance, don't hesitate to reach out to the Cubix Corporation team. We're here to help!
 
----
-
-**Disclaimer:** This README was written with the assistance of ChatGPT. We are not attempting to hide this fact, as we believe in full transparency about our processes.
+### Disclaimer
+This README was written with the assistance of ChatGPT. We are not attempting to hide this fact, as we believe in full transparency about our processes.
